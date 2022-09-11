@@ -40,4 +40,6 @@ This project aims at solving TSP with the different algorithms stated above and 
 The files above can be used by running the tsp_generate_matrix.cpp file in the user folder to generate a random matrix for a number of cities (example 50) where the matrix elements describe the distance between two cities. The user_combine.cpp file can be run after downloading all the algorithm files to run all the four algorithms simultaneously and record the time taken by each algorithm.
 Once done, the process can be repeated by changing the number of cities again and generating a seeded random matrix to feed to the four algorithms and perform multiple comparisons.
 
-A result analysis from our side is given below for different hyperparameters and conditions for your reference:
+<i><b>A result analysis from our side is given below for different hyperparameters and conditions for your reference in the result folder</b></i>.
+
+=) =) =) =)

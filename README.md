@@ -1,5 +1,7 @@
 ## Comparison of different algorithms to solve the TSP algorithm
 
+![48StatesTSP](https://user-images.githubusercontent.com/45784014/189542101-6abdbb93-9340-4c9a-b7ff-c76e73f62057.png)
+
 This is a research project for the determining the best algorithm to solve the famous Travelling Salesman Problem under different dependable parameters like the number of cities and the cost between them.
 
 ### ABSTRACT

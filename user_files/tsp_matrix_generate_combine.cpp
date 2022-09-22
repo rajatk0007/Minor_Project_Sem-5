@@ -87,4 +87,3 @@ void main_generator(int cities)
     }
     
 }
-
